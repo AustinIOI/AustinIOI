@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hey there, I'm Jinao Yu (AoO-24/Alston) 👋</h2>
+<h2 align="center">Hey there, I'm Jinao Yu (AoO-24/Alston Yu) 👋</h2>
 
 I'm a curious developer/explorer/founder who finds joy in building and exploring. 
 
