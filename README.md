@@ -5,7 +5,7 @@
 I'm a curious developer/explorer/founder who finds joy in building and exploring. 
 
 - **Happy to offer consulting services！**
-- **Open to academic collaborations!**
+- **Open to academic collaborations and Real-life friendship!**
 - **Or just open source connections! Would be very happy if we could work together on Golang or Machine Learning!** 
 - **interested in my projects? Want to chat about new ideas? Need some help? Feel free to connect me!**
 
