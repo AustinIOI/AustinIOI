@@ -36,7 +36,7 @@ Wirh passion in AI + full-stack, I am actively seeking new graduate or entry-lev
 - ML Infrastructure: Engineered AWS-based solutions to host ML models with robust reliability.
 - ML Platform: Built an enterprise-level AI PaaS platform to streamline the model DevOps process at Alibaba.
 - ML Systems: Wrote CUDA shaders to accelerate ML inference and image processing algorithms.
-- Published 3 research papers in AI and NLP, cited over 60 times.
+- Published 3 research papers in AI and NLP, cited over 40 times.
 
 💡 Research Interests
 - Natural Language Processing
