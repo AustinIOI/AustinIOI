@@ -26,7 +26,8 @@ I'm a curious developer/explorer/founder who finds joy in building and exploring
 ---
 
 Want to know more about me...?
-👋 Hello! I'm Meijin Li, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on machine learning engineering and full-stack development.
+
+👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on machine learning engineering and full-stack development.
 
 🎯 What I'm Looking For
 Wirh passion in AI + full-stack, I am actively seeking new graduate or entry-level SDE & MLE positions. I'm also interested in research collaborations in NLP, Computer Vision, and Reinforcement Learning.
