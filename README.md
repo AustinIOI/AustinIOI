@@ -32,7 +32,8 @@ Want to know more about me...?
 I got my Bachelor's degree from University of Wisconsin - Madison, and have a chance be selected for the exchange program . I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, 2024, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
 🎯 What I'm Looking For
-With passion in AI + full-stack, I am actively seeking new graduate or entry-level SDE & DevOps & Infrastructure as Code & MLE positions. I'm also interested in research collaborations in NLP, Computer Vision, and Reinforcement Learning.
+
+With passion in AI + full-stack + Infra, I am actively seeking new graduate or entry-level SDE & DevOps & Infrastructure as Code & MLE positions. I'm also interested in research collaborations in NLP, Computer Vision, and Reinforcement Learning.
 
 🌟 Key Achievements
 - ML Algorithm: Enhanced accuracy of LLMs, BERT, and XGBoost for diverse industrial ML tasks at eBay.
