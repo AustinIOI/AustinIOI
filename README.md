@@ -27,7 +27,9 @@ I'm a curious developer/explorer/founder who finds joy in building and exploring
 
 Want to know more about me...?
 
-👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on machine learning engineering and full-stack development. I got my Bachelor's degree from University of Wisconsin - Madison, and have a chance be selected for the exchange program . I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, 2024, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
+👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on machine learning engineering and full-stack development. 
+
+I got my Bachelor's degree from University of Wisconsin - Madison, and have a chance be selected for the exchange program . I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, 2024, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
 🎯 What I'm Looking For
 Wirh passion in AI + full-stack, I am actively seeking new graduate or entry-level SDE & MLE positions. I'm also interested in research collaborations in NLP, Computer Vision, and Reinforcement Learning.
