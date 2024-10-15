@@ -65,7 +65,7 @@ Some of my works and projects:
 ---
 
 <h4 align="center">
-  Let’s connect and collaborate! 🌐
+  Let’s connect and collaborate! 🌐🌍
 </h4>
 
 <p align="center">
