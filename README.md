@@ -82,7 +82,7 @@ Some of my works and projects:
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=AoO-24&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />
 </a>
 <a href="https://github.com/AoO-24">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AoO-24&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on&cache_seconds=1800" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AoO-24&theme=dark&hide_border=true&layout=compact" />
 </a>
 <!--
 ### My Stats
