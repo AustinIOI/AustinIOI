@@ -90,7 +90,7 @@ Some of my works and projects:
 <div align="center">
 
 [<img src="https://github-readme-stats.vercel.app/api?username=AoO-24&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" />]  
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoO-24&size_weight=0.5&count_weight=0.5" />]  
 
 
 </div>
