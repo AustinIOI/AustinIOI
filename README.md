@@ -75,7 +75,7 @@ Some of my works and projects:
   <a href="https://www.reddit.com/user/yunwei123">Reddit</a> • 
   <a href="https://medium.com/@yunwei356">Medium Blog</a> • 
   <a href="https://www.producthunt.com/@yunwei_123">Product Hunt</a> • 
-  <a href="https://www.zhihu.com/people/yun-wei-64-11">Ins</a>
+  <a href="https://www.instagram.com/jayy_yuu/">Ins</a>
   
 </p>
 
