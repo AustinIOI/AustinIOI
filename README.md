@@ -33,7 +33,7 @@ I got my Bachelor's degree from University of Wisconsin - Madison, and have a ch
 
 🎯 What I'm Looking For
 
-With passion in AI + full-stack + Infra, I am actively seeking new graduate or entry-level SDE & DevOps & Infrastructure as Code & MLE positions. I'm also interested in research collaborations in NLP, Computer Vision, and Reinforcement Learning.
+With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-level SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, Computer Vision, and Reinforcement Learning.
 
 🌟 Key Achievements
 - ML Algorithm: Enhanced accuracy of LLMs, BERT, and XGBoost for diverse industrial ML tasks at eBay.
