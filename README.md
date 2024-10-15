@@ -44,9 +44,10 @@ With passion in AI + full-stack + Infra, I am actively seeking new graduate or e
 
 💡 Research Interests
 - Natural Language Processing
-- Computer Vision
-- Reinforcement Learning
-
+- MLOps Ecosystem
+- Cloud Native Open Source
+- Large Language Model 
+  
 
 - 🚀 **Curiosity:** I know nothing about the world and quite stupid(At least much stupider than AI!), but I’m endlessly fascinated by how things work and how they can be better.
 - 🖥 **Interests:** I'm passionate about computer systems, programming languages, and large language models (LLMs). The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
