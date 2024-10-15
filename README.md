@@ -45,8 +45,7 @@ With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-
 💡 Research Interests
 - MLOps Ecosystem
 - Microservice
-- Distributed system
-- MLOps Ecosystem
+- Distributed System
 - Cloud Native Open Source
 - Natural Language Processing
 - Large Language Model 
