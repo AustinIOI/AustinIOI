@@ -43,9 +43,12 @@ With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-
 - Published 3 research papers in AI and NLP, cited over 40 times.
 
 💡 Research Interests
-- Natural Language Processing
+- MLOps Ecosystem
+- Microservice
+- Distributed system
 - MLOps Ecosystem
 - Cloud Native Open Source
+- Natural Language Processing
 - Large Language Model 
   
 
