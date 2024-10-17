@@ -57,7 +57,7 @@ Want to know more about me...?
 
 <p align="center">
 A cycler who goes off cycle.<br/>
-A sketch who works on an iPad.<br/>
+A painter who works on an iPad.<br/>
 A photographer who seldom captures.<br/>
 A developer who build systems that breaks a lot.<br/>
 A dancer who has a PhD in living room choreography.<br/>
