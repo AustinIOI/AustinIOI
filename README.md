@@ -69,13 +69,13 @@ Some of my works and projects:
     <br>
     <br>
     <div>
-        <img src="https://skillicons.dev/icons?i=cs,unity" />
+        <img src="https://skillicons.dev/icons?i=go,unity" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=flutter,swift" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
+        <img src="https://skillicons.dev/icons?i=html,css,react,js" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
