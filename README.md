@@ -95,17 +95,19 @@ Some of my works and projects:
 <br>
 
 <div align="center">
-    =============================== 🌐 My social media 🌐 ===============================
+     =============================== 🌐 My social media 🌐 ===============================
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/alstonyu/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <br>
-    <a href="https://www.instagram.com/jayy_yuu/">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-    
+    <div style="display: flex; justify-content: center;">
+        <a href="https://www.linkedin.com/in/alstonyu/">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+    </div>
+    <div>
+        <a href="https://www.instagram.com/jayy_yuu/">
+            <img src="https://skillicons.dev/icons?i=instagram" />
+        </a>
+    </div>
 </div>
 
 
