@@ -25,9 +25,9 @@ I'm a curious developer/explorer/founder who finds joy in building and exploring
 
 ---
 
-<h4 style="text-align: center;">
+<div align="center">
     ================================= 🛠️ My skills 🛠️ =================================
-</h4>
+
  </h4>
     <br>
     <br>
