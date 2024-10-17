@@ -75,7 +75,7 @@ Some of my works and projects:
         <img src="https://skillicons.dev/icons?i=fastapi,spring,graphql,postman,kafka" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,fiama" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,deno,figma" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
