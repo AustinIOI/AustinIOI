@@ -16,7 +16,7 @@ An open-source advocator who daily drives Apple products.<br/>
 
 <h2 align="center">Hey there, I'm Jin'ao Yu (AoO-24/Alston) 👋</h2>
 
-I'm a curious developer/explorer/founder who finds joy in building and exploring. 
+I'm a curious developer/explorer/founder/funder who finds joy in building and exploring. 
 
 - **Happy to offer consulting services and happy to hear advices👂！**
 - **Open to academic collaborations and :) friendship🧑‍🤝‍🧑!**
