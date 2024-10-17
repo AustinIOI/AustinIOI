@@ -99,12 +99,19 @@ Some of my works and projects:
     <br>
     <br>
     <div style="display: flex; justify-content: center;">
+        <a href="https://www.instagram.com/jayy_yuu/">
+            <img src="https://github.com/AoO-24" />
+        </a>
         <a href="https://www.linkedin.com/in/alstonyu/">
             <img src="https://skillicons.dev/icons?i=linkedin" />
         </a>
         <a href="https://www.instagram.com/jayy_yuu/">
             <img src="https://skillicons.dev/icons?i=instagram" />
         </a>
+        <a href="https://www.instagram.com/jayy_yuu/">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+       
     </div>
 </div>
 
@@ -145,6 +152,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/AoO-24">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AoO-24&theme=dark&hide_border=true&layout=compact" />
 </a>
+
 <!--
 ### My Stats
 
