@@ -1,9 +1,3 @@
-<p align="center">
-A cycler who goes off cycle.<br/>
-A photographer who seldom captures.<br/>
-A developer who build systems that breaks a lot....<br/>
-An open-source advocator who daily drives Apple products.<br/>
-<br/>
 <a href="https://i.swung0x48.com">Portfolio</a>
  · <a href="https://aoo-24.github.io/">Blog</a>
 </p>
