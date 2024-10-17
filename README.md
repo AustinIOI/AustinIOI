@@ -99,7 +99,7 @@ Some of my works and projects:
     <br>
     <br>
     <div style="display: flex; justify-content: center;">
-        <a href="https://www.instagram.com/jayy_yuu/">
+        <a href="https://github.com/AoO-24">
             <img src="https://skillicons.dev/icons?i=github" />
         </a>
         <a href="https://www.linkedin.com/in/alstonyu/">
