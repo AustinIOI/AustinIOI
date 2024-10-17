@@ -56,7 +56,7 @@ Want to know more about me...?
 </div>
 
 <p align="center">
-a dancer in the shadows.<br/>
+A dancer in the shadows.<br/>
 A cycler who goes off cycle.<br/>
 A sketch who works on an iPad.<br/>
 A photographer who seldom captures.<br/>
