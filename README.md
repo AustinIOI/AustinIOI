@@ -96,7 +96,7 @@ Some of my works and projects:
 <div align="center">
      =============================== 🌐 My social media 🌐 ===============================
  <h4 align="center">
-      ===============================  Let’s connect and collaborate! 🌐🌍===============================
+      =============================== 🌐 Let’s connect and collaborate! 🌐===============================
 </h4>
     <br>
     <br>
