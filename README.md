@@ -104,9 +104,6 @@ Some of my works and projects:
 <br>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/AoO-24">
-        <img src="https://skillicons.dev/icons?i=github" />
-    </a>
     <a href="https://www.linkedin.com/in/alstonyu/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
@@ -116,23 +113,10 @@ Some of my works and projects:
     <a href="https://www.instagram.com/jayy_yuu/">
         <img src="https://skillicons.dev/icons?i=twitter" />
     </a>    
+    <a href="https://github.com/AoO-24">
+        <img src="https://skillicons.dev/icons?i=github" />
+    </a>
 </div>
-
-
-<!--
-**Clifong/Clifong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
@@ -142,12 +126,20 @@ Here are some ideas to get you started:
   <a href="https://www.reddit.com/user/yunwei123">Reddit</a> • 
   <a href="https://medium.com/@yunwei356">Medium Blog</a> • 
   <a href="https://www.producthunt.com/@yunwei_123">Product Hunt</a> • 
-  <a href="https://www.instagram.com/jayy_yuu/">Instagram</a>
-  
+  <a href="https://www.instagram.com/jayy_yuu/">Instagram</a> • 
+  <a href="https://github.com/AoO-24">Github</a> • 
 </p>
+
+
+
+
+
 
 <!--
     This is a multi-line comment. Comment for future use
+-->
+
+<!--
     You can write as many lines as you want here.
     The browser will not display any of this text.
 <a href="https://github.com/AoO-24">
@@ -166,4 +158,17 @@ Here are some ideas to get you started:
 
 
 </div>
+<!--
+**Clifong/Clifong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
