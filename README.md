@@ -98,10 +98,13 @@ Some of my works and projects:
     =============================== 🌐 My social media 🌐 ===============================
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/clif-ong-724467199">
+    <a href="https://www.linkedin.com/in/alstonyu/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     
+    <a href="https://www.instagram.com/jayy_yuu//">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
     
     
 </div>
