@@ -72,7 +72,7 @@ Some of my works and projects:
         <img src="https://skillicons.dev/icons?i=go,py,java" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=fastapi,spring,graphql,kafka,postman" />
+        <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,kafka,postman" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,deno,figma" />
