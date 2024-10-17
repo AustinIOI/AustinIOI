@@ -63,7 +63,6 @@ A developer who build systems that breaks a lot....<br/>
 A dancer who has a PhD in living room choreography.<br/>
 An open-source advocator who daily drives Apple products.<br/>
 A singer turning everyday moments into memorable melodies.<br/>
-A singer recognized for turning everyday moments into unforgettable melodies.<br/>
 </p>
 
 👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on Cloud-Native development, DevOps, MLOps and full-stack development. I got my Bachelor's degree from Univ of Wisconsin-Madison, and have a chance be selected for a fellowship research program at Columbia University. 
