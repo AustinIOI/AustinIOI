@@ -81,7 +81,7 @@ Some of my works and projects:
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,gitlab,terraform,ansible,nginx" />
+        <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,gitlab,terraform,ansible,nginx" />
     </div>
     <div>
         <br>
