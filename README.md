@@ -96,6 +96,7 @@ Some of my works and projects:
 
  <h4 align="center">
       =============================== 🌐 Let’s connect and collaborate! 🌐===============================
+<div align="center">
 </h4>
     <br>
     <br>
@@ -132,7 +133,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
+
 <p align="center">
   <a href="https://www.linkedin.com/in/alstonyu/">LinkedIn</a> • 
   <a href="https://twitter.com/yunwei37">Twitter[X]</a> • 
