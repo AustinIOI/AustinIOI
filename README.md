@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<div align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/alstonyu/">LinkedIn</a> • 
   <a href="https://twitter.com/yunwei37">Twitter[X]</a> • 
