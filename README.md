@@ -88,7 +88,7 @@ Some of my works and projects:
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,cassandra,mongodb,dynamodb,rabbitmq,rust,nodejs,solidity,azure,gcp" />
+        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,redhat,cassandra,mongodb,dynamodb,rabbitmq,rust,nodejs,solidity,azure,gcp" />
     </div>
 </div>
 <br>
