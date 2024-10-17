@@ -1,5 +1,5 @@
 
-<div style="text-align: center;">
+<div align= "center">
 <a href="https://i.swung0x48.com">Portfolio</a>
  · <a href="https://aoo-24.github.io/">Blog</a>
 </div>
