@@ -42,7 +42,7 @@ I'm a curious developer/explorer/founder/funder who finds joy in building and ex
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,redhat,cassandra,mongodb,dynamodb,rabbitmq,rust,nestjs,deno,solidity,azure,gcp" />
+        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,redhat,cassandra,mongodb,dynamodb,rabbitmq,rust,kotlin,nestjs,deno,solidity,azure,gcp" />
     </div>
 </div>
 <br>
