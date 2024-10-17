@@ -96,11 +96,11 @@ Some of my works and projects:
 
  <h4 align="center">
       =============================== 🌐 Let’s connect and collaborate! 🌐===============================
-<div align="center">
+
 </h4>
     <br>
     <br>
-    <div style="display: flex; justify-content: center;">
+    <div style="display: align="center "flex; justify-content: center;">
         <a href="https://github.com/AoO-24">
             <img src="https://skillicons.dev/icons?i=github" />
         </a>
