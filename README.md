@@ -4,13 +4,6 @@
  · <a href="https://aoo-24.github.io/">Blog</a>
 </div>
 
-<p align="center">
-A cycler who goes off cycle.<br/>
-A photographer who seldom captures.<br/>
-A developer who build systems that breaks a lot....<br/>
-An open-source advocator who daily drives Apple products.<br/>
-<br/>
-</p>
 
 <h2 align="center">Hey there, I'm Jin'ao Yu (AoO-24/Alston) 👋</h2>
 
@@ -62,6 +55,13 @@ Want to know more about me...?
 <img src="https://github.com/AoO-24/AoO-24/blob/main/doodle.gif" alt="doodle" width="360" height="360">
 </div>
 
+<p align="center">
+A cycler who goes off cycle.<br/>
+A photographer who seldom captures.<br/>
+A developer who build systems that breaks a lot....<br/>
+An open-source advocator who daily drives Apple products.<br/>
+<br/>
+</p>
 
 👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on Cloud-Native development, DevOps, MLOps and full-stack development. I got my Bachelor's degree from Univ of Wisconsin-Madison, and have a chance be selected for a fellowship research program at Columbia University. 
 
