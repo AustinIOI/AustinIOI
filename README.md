@@ -57,8 +57,8 @@ Want to know more about me...?
 
 <p align="center">
 A cycler who goes off cycle.<br/>
-A photographer who seldom captures.<br/>
 A sketch artist who works on an iPad.<br/>
+A photographer who seldom captures.<br/>
 A developer who build systems that breaks a lot....<br/>
 An open-source advocator who daily drives Apple products.<br/>
 <br/>
