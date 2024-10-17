@@ -1,5 +1,13 @@
+<p align="center">
+A cycler who goes off cycle.<br/>
+A photographer who seldom captures.<br/>
+A developer who build systems that breaks a lot....<br/>
+An open-source advocator who daily drives Apple products.<br/>
+<br/>
+<div style="text-align: center;">
 <a href="https://i.swung0x48.com">Portfolio</a>
  · <a href="https://aoo-24.github.io/">Blog</a>
+</div>
 </p>
 
 <h2 align="center">Hey there, I'm Jin'ao Yu (AoO-24/Alston) 👋</h2>
