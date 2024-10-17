@@ -60,7 +60,7 @@ A cycler who goes off cycle.<br/>
 A sketch who works on an iPad.<br/>
 A photographer who seldom captures.<br/>
 A developer who build systems that breaks a lot....<br/>
-A dancer who has a PhD in living room choreography.<br/>
+A dancer with a PhD in living room choreography.<br/>
 An open-source advocator who daily drives Apple products.<br/>
 A singer turning everyday moments into memorable melodies.<br/>
 </p>
