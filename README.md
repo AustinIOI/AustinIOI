@@ -95,6 +95,9 @@ Some of my works and projects:
 
 <div align="center">
      =============================== 🌐 My social media 🌐 ===============================
+ <h4 align="center">
+      ===============================  Let’s connect and collaborate! 🌐🌍===============================
+</h4>
     <br>
     <br>
     <div style="display: flex; justify-content: center;">
@@ -129,9 +132,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center">
-  Let’s connect and collaborate! 🌐🌍
-</h4>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alstonyu/">LinkedIn</a> • 
