@@ -98,23 +98,22 @@ Some of my works and projects:
       =============================== 🌐 Let’s connect and collaborate! 🌐===============================
 
 </h4>
-    <br>
-    <br>
-    <div style="display: align="center "flex; justify-content: center;">
-        <a href="https://github.com/AoO-24">
-            <img src="https://skillicons.dev/icons?i=github" />
-        </a>
-        <a href="https://www.linkedin.com/in/alstonyu/">
-            <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-        <a href="https://www.instagram.com/jayy_yuu/">
-            <img src="https://skillicons.dev/icons?i=instagram" />
-        </a>
-        <a href="https://www.instagram.com/jayy_yuu/">
-            <img src="https://skillicons.dev/icons?i=twitter" />
-        </a>    
+<br>
+<br>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://github.com/AoO-24">
+        <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+    <a href="https://www.linkedin.com/in/alstonyu/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="https://www.instagram.com/jayy_yuu/">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+    <a href="https://www.instagram.com/jayy_yuu/">
+        <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>    
 </div>
-
 
 
 <!--
