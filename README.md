@@ -146,9 +146,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/AoO-24">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=AoO-24&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />
 </a>
-<a href="https://github.com/AoO-24">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AoO-24&theme=dark&hide_border=true&layout=compact" />
-</a>
 
 <!--
 ### My Stats
