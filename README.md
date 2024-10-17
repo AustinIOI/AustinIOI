@@ -102,8 +102,6 @@ Some of my works and projects:
         <a href="https://www.linkedin.com/in/alstonyu/">
             <img src="https://skillicons.dev/icons?i=linkedin" />
         </a>
-    </div>
-    <div>
         <a href="https://www.instagram.com/jayy_yuu/">
             <img src="https://skillicons.dev/icons?i=instagram" />
         </a>
