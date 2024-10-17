@@ -69,13 +69,13 @@ Some of my works and projects:
     <br>
     <br>
     <div>
-        <img src="https://skillicons.dev/icons?i=go,py,java" />
+        <img src="https://skillicons.dev/icons?i=go,py,ts,java" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,kafka,postman" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,deno,figma" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,deno,figma" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
