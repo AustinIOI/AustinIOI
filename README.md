@@ -75,10 +75,10 @@ Some of my works and projects:
         <img src="https://skillicons.dev/icons?i=flutter,swift" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,react,js" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=py,java" />
