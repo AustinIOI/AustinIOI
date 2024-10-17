@@ -75,7 +75,7 @@ Some of my works and projects:
         <img src="https://skillicons.dev/icons?i=fastapi,spring,graphql,postman,kafka" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,fiama" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,fiama" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
@@ -88,7 +88,7 @@ Some of my works and projects:
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,linux,cassandra,mongodb,dynamodb,rust,ts,nodejs,solidity,azure,gcp" />
+        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,linux,cassandra,mongodb,dynamodb,rust,nodejs,solidity,azure,gcp" />
     </div>
 </div>
 <br>
