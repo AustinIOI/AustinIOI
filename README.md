@@ -25,6 +25,58 @@ I'm a curious developer/explorer/founder who finds joy in building and exploring
 
 ---
 
+<div align="center">
+    ================================= 🛠️ My skills 🛠️ =================================
+    <br>
+    <br>
+    <div>
+        <img src="https://skillicons.dev/icons?i=go,py,ts,java" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,kafka,postman" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,deno,figma" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,gitlab,terraform,ansible,nginx" />
+    </div>
+    <div>
+        <br>
+        </b>Currently learning:
+        <br>
+        <be>
+        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,redhat,cassandra,mongodb,dynamodb,rabbitmq,rust,nestjs,deno,solidity,azure,gcp" />
+    </div>
+</div>
+<br>
+<br>
+
+<div align="center">
+     =============================== 🌐 My social media 🌐 ===============================
+    <br>
+    <br>
+    <div style="display: flex; justify-content: center;">
+        <a href="https://github.com/AoO-24">
+            <img src="https://skillicons.dev/icons?i=github" />
+        </a>
+        <a href="https://www.linkedin.com/in/alstonyu/">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+        <a href="https://www.instagram.com/jayy_yuu/">
+            <img src="https://skillicons.dev/icons?i=instagram" />
+        </a>
+        <a href="https://www.instagram.com/jayy_yuu/">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>    
+</div>
+
+
+---
+
 Want to know more about me...?
 
 👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on Cloud-Native development, DevOps, MLOps and full-stack development. I got my Bachelor's degree from Univ of Wisconsin-Madison, and have a chance be selected for a fellowship research program at Columbia University. 
