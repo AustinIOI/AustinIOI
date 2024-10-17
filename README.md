@@ -110,9 +110,7 @@ Some of my works and projects:
         </a>
         <a href="https://www.instagram.com/jayy_yuu/">
             <img src="https://skillicons.dev/icons?i=twitter" />
-        </a>
-       
-    </div>
+        </a>    
 </div>
 
 
