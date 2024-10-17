@@ -72,23 +72,23 @@ Some of my works and projects:
         <img src="https://skillicons.dev/icons?i=go,py,java" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=fastapi,graphql" />
+        <img src="https://skillicons.dev/icons?i=fastapi,spring,graphql,postman,kafka" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,fiama" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,terraform,ansible,aws" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,terraform,ansible,nginx" />
     </div>
     <div>
         <br>
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=jenkins,,gitlab,linux,kafka,cassandra,mongodb,dynamodb,rust,ts,solidity" />
+        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,linux,cassandra,mongodb,dynamodb,rust,ts,nodejs,solidity,azure,gcp" />
     </div>
 </div>
 <br>
