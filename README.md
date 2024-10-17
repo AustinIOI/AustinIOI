@@ -1,9 +1,3 @@
-
-<div align="center">
-<img src="https://github.com/AoO-24/AoO-24/blob/main/doodle.gif" alt="doodle" width="360" height="360">
-</div>
-
-
 <p align="center">
 A cycler who goes off cycle.<br/>
 A photographer who seldom captures.<br/>
@@ -59,6 +53,11 @@ I'm a curious developer/explorer/founder/funder who finds joy in building and ex
 
 
 Want to know more about me...?
+
+<div align="center">
+<img src="https://github.com/AoO-24/AoO-24/blob/main/doodle.gif" alt="doodle" width="360" height="360">
+</div>
+
 
 👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on Cloud-Native development, DevOps, MLOps and full-stack development. I got my Bachelor's degree from Univ of Wisconsin-Madison, and have a chance be selected for a fellowship research program at Columbia University. 
 
