@@ -28,22 +28,34 @@ I'm a curious developer/explorer/founder who finds joy in building and exploring
 <h4 style="text-align: center;">
     ================================= 🛠️ My skills 🛠️ =================================
 </h4>
-<br>
-<br>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/AoO-24" style="margin: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-    <a href="https://www.linkedin.com/in/alstonyu/" style="margin: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://www.instagram.com/jayy_yuu/" style="margin: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-    <a href="https://twitter.com/" style="margin: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>    
+ </h4>
+    <br>
+    <br>
+    <div>
+        <img src="https://skillicons.dev/icons?i=go,py,ts,java" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,kafka,postman" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,deno,figma" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,gitlab,terraform,ansible,nginx" />
+    </div>
+    <div>
+        <br>
+        </b>Currently learning:
+        <br>
+        <be>
+        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,redhat,cassandra,mongodb,dynamodb,rabbitmq,rust,nestjs,deno,solidity,azure,gcp" />
+    </div>
 </div>
+<br>
+<br>
 
 
 Want to know more about me...?
