@@ -94,8 +94,7 @@ Some of my works and projects:
 
 - Panel Discussion: eBPF: A New Era in Cloud Infrastructure Tools in [OSS summit Europe 24](https://sched.co/1ej2B@sched)
 
-
- <h4 align="center">
+<div align="center">
       =============================== 🌐 Let’s connect and collaborate! 🌐===============================
 
 </h4>
