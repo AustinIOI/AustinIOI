@@ -66,9 +66,9 @@ An open-source advocator who daily drives Apple products.<br/>
 A singer turning everyday moments into memorable melodies.
 </p>
 <div align="center">
-  <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">Portfolio</a>
+  <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">My Portfolio</a>
   · 
-  <a href="https://aoo-24.github.io/" style="font-size: 20px; font-weight: bold;">Blog</a>
+  <a href="https://aoo-24.github.io/" style="font-size: 20px; font-weight: bold;">My Blog</a>
 </div>
 <br/>
 👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on Cloud-Native development, DevOps, MLOps and full-stack development. I got my Bachelor's degree from Univ of Wisconsin-Madison, and have a chance be selected for a fellowship research program at Columbia University. 
