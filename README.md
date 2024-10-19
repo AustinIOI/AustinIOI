@@ -3,6 +3,7 @@
 <a href="https://aoo-24.github.io/portfolio/">Portfolio</a>
  · <a href="https://aoo-24.github.io/">Blog</a>
 </div>
+<br/>
 I'm a curious developer/explorer/founder/funder who finds joy in building and exploring. 
 
 - **Happy to offer consulting services and happy to hear advices👂！**
