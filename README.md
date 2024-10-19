@@ -1,9 +1,5 @@
 <h2 align="center">Hey there, I'm Jin'ao Yu (AoO-24/Alston) 👋</h2>
-<div align= "center">
-<a href="https://aoo-24.github.io/portfolio/">Portfolio</a>
- · <a href="https://aoo-24.github.io/">Blog</a>
-</div>
-<br/>
+
 I'm a curious developer/explorer/founder/funder who finds joy in building and exploring. 
 
 - **Happy to offer consulting services and happy to hear advices👂！**
