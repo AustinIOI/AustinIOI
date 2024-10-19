@@ -50,6 +50,19 @@ I'm a curious developer/explorer/founder/funder who finds joy in building and ex
 
 Want to know more about me...?
 
+<style>
+  a:hover {
+    color: #FF6347;
+    transform: scale(1.1);
+  }
+</style>
+
+<div align="center">
+  <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">Portfolio</a>
+  · 
+  <a href="https://aoo-24.github.io/" style="font-size: 20px; font-weight: bold;">Blog</a>
+</div>
+
 <div align="center">
 <img src="https://github.com/AoO-24/AoO-24/blob/main/doodle.gif" alt="doodle" width="360" height="360">
 </div>
