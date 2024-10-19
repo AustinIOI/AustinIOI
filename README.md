@@ -56,13 +56,6 @@ Want to know more about me...?
 <img src="https://github.com/AoO-24/AoO-24/blob/main/doodle.gif" alt="doodle" width="360" height="360">
 </div>
 
-
-<div align="center">
-  <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">Portfolio</a>
-  · 
-  <a href="https://aoo-24.github.io/" style="font-size: 20px; font-weight: bold;">Blog</a>
-</div>
-
 <p align="center">
 A cycler who goes off cycle.<br/>
 A painter who works on an iPad.<br/>
@@ -72,6 +65,11 @@ A dancer who has a PhD in living room choreography.<br/>
 An open-source advocator who daily drives Apple products.<br/>
 A singer turning everyday moments into memorable melodies.<br/>
 </p>
+<div align="center">
+  <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">Portfolio</a>
+  · 
+  <a href="https://aoo-24.github.io/" style="font-size: 20px; font-weight: bold;">Blog</a>
+</div>
 
 👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on Cloud-Native development, DevOps, MLOps and full-stack development. I got my Bachelor's degree from Univ of Wisconsin-Madison, and have a chance be selected for a fellowship research program at Columbia University. 
 
