@@ -1,4 +1,3 @@
-
 <div align= "center">
 <a href="https://aoo-24.github.io/portfolio/">Portfolio</a>
  · <a href="https://aoo-24.github.io/">Blog</a>
