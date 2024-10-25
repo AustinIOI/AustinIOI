@@ -20,13 +20,13 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
     <br>
     <br>
     <div>
-        <img src="https://skillicons.dev/icons?i=go,py,ts,java" />
-    </div>
-    <div>
         <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,kafka,postman" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=go,py,ts,java" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
