@@ -66,7 +66,7 @@ A singer turning everyday moments into memorable melodies.
 </p>
 
 <div align="center">
-  <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">My Portfolio</a>
+  <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">My Portfolio . </a>
   <a href="https://aoo-24.github.io/" style="font-size: 20px; font-weight: bold;">My Blog</a>
 </div>
 <br/>
