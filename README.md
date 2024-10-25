@@ -26,7 +26,7 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,kafka,postman" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,deno,figma" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis " />
@@ -39,7 +39,7 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,redhat,cassandra,mongodb,dynamodb,rabbitmq,rust,kotlin,nestjs,deno,solidity,azure,gcp" />
+        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,redhat,redux,cassandra,mongodb,dynamodb,rabbitmq,rust,kotlin,nestjs,deno,solidity,azure,gcp" />
     </div>
 </div>
 <br>
