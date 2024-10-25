@@ -37,7 +37,6 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
 <div>
     <div>
         <br>
-        <br>
         </b>Currently learning:
         <br>
         <br>
