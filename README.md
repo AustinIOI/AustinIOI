@@ -44,7 +44,7 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
 </div>
 <br>
 <br>
-
+</div>
 
 Want to know more about me...?
 
@@ -63,11 +63,13 @@ A dancer who has a PhD in living room choreography.<br/>
 An open-source advocator who daily drives Apple products.<br/>
 A singer turning everyday moments into memorable melodies.
 </p>
+
 <div align="center">
   <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">My Portfolio</a>
   <a href="https://aoo-24.github.io/" style="font-size: 20px; font-weight: bold;">My Blog</a>
 </div>
 <br/>
+
 👋 Hello! I'm Jinao Yu, currently pursuing my Master's in Computer Science at Georgia Institute of Technology, focusing on Cloud-Native development, DevOps, MLOps and full-stack development. I got my Bachelor's degree from Univ of Wisconsin-Madison, and have a chance be selected for a fellowship research program at Columbia University. 
 
 I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, 2024, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
