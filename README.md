@@ -37,7 +37,9 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
 <div>
     <div>
         <br>
+        <br>
         </b>Currently learning:
+        <br>
         <br>
         <img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,redhat,redux,cassandra,dynamodb,rabbitmq,rust,kotlin,nestjs,deno,solidity,azure,gcp" />
     </div>
