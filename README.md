@@ -31,7 +31,6 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
     <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
     </div>
-
     <div>
         <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,gitlab,terraform,ansible,nginx" />
     </div>
