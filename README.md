@@ -22,7 +22,7 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
     <div>
         <img src="https://skillicons.dev/icons?i=go,py,ts,java" />
     </div>
-
+    <div>
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,mongodb " />
     </div>
     <div>
