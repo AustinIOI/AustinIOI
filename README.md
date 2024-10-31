@@ -2,7 +2,7 @@
 <a href="https://aoo-24.github.io/portfolio/">Portfolio</a>
  · <a href="https://aoo-24.github.io/">Blog</a>
 </div>
-<h2 align="center">Hey there, I'm Alston Yu (AoO-24/Jin'ao) 👋</h2>
+<h2 align="center">Hey there, I'm Alston Yu (AoO-24/Jin'ao) 👋</h2> 
 
 I'm a developer/explorer/founder/funder who finds joy in building and exploring. 
 
