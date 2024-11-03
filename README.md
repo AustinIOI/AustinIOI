@@ -142,7 +142,8 @@ Some of my works and projects:
   <a href="https://github.com/AoO-24">Github</a> • 
 </p>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alstonyu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/alstonyu?trk=profile-badge">Alston YU</a></div>
+              
 
 
 
