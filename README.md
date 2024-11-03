@@ -111,8 +111,6 @@ Some of my works and projects:
 
 <div align="center">
       =============================== 🌐 Let’s connect and collaborate! 🌐===============================
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alstonyu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/alstonyu?trk=profile-badge">Alston YU</a>
-</div>
  
 </h4>
 <br>
