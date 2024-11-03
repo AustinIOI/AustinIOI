@@ -47,8 +47,9 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
 <br>
 </div>
 
+<div align="center">
 Want to know more about me...?
-
+</div>
 
 
 <div align="center">
