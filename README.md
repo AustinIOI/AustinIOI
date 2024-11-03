@@ -42,7 +42,7 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
         </b>Currently learning:
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=rust,gcp,cloudflare,bitbucket,jenkins,redhat,openshift,cassandra,deno" />
+        <img src="https://skillicons.dev/icons?i=rust,cassandra,deno,gcp,cloudflare,bitbucket,jenkins,redhat,openshift" />
     </div>
 </div>
 <br>
