@@ -32,7 +32,7 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,mongodb " />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,gitlab,terraform,ansible,nginx" />
+        <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,gitlab,terraform,ansible,nginx" />
     </div>
 <div>
     <div>
