@@ -1,7 +1,7 @@
 <div align= "center">
- <!--<a href="https://aoo-24.github.io/portfolio/">Portfolio</a>-->
+ <!--<a href="https://aoo-24.github.io/portfolio/">Portfolio</a>  · -->
  <!-- This is a hidden comment -->
- · <a href="https://aoo-24.github.io/">Blog</a>
+ <a href="https://aoo-24.github.io/">Blog</a>
 </div>
 
 <h2 align="center">Hey there, I'm Alston Yu (AoO-24/Jin'ao) 👋</h2> 
