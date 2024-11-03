@@ -40,7 +40,7 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
         </b>Currently learning:
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=rust,kotlin,gcp,rabbitmq,jenkins,redhat,cassandra,nestjs,deno,redux,solidity" />
+        <img src="https://skillicons.dev/icons?i=rust,kotlin,gcp,rabbitmq,jenkins,redhat,cassandra,deno,redux,solidity" />
     </div>
 </div>
 <br>
