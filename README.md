@@ -78,7 +78,7 @@ A singer turning everyday moments into memorable melodies.
 
 I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, 2024, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
-🎯 What I'm Looking For
+🎯 **What I'm Looking For**
 
 With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-level SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model.
 
