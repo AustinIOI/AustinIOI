@@ -89,9 +89,9 @@ With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-
 - ML Systems: Wrote CUDA shaders to accelerate ML inference and image processing algorithms.
 - Published 3 research papers in AI and NLP, cited over 40 times.
 
-💡 Research Interests
+💡 **Research Interests**
 - MLOps Ecosystem
-- Distributed System, Microservice
+- Distributed System, Microservices
 - Cloud Native, Open Source
 - Large Language Model 
   
