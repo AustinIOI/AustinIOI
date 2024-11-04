@@ -87,7 +87,7 @@ I also served as a mentor/organization admin in the [Open Source Promotion Plan 
   
 🎯 **What I'm Looking For**
 
-With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model.
+With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model. (More about LLM) I'm passionate about computer systems, programming languages, and large language models (LLMs). The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
 
 💡 **Research Interests**
 - MLOps Ecosystem
@@ -98,7 +98,7 @@ With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-
 
  🚀 **Curiosity:** I know nothing about the world and quite stupid(At least know much less than than AI!), but I’m endlessly fascinated by how things work and how they can be better.
  
- 🖥 **Interests:** I'm passionate about computer systems, programming languages, and large language models (LLMs). The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
+ 🖥 **Interests:** 
  
  👾 **Projects:** I’m the creator of the DLUT robotics organization, where I work on eBPF tools and runtimes. I believe that eBPF has the potential to be incredibly powerful, not just on Linux but across all systems. Can we make that a reality? I’m committed to exploring how.
  
