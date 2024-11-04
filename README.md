@@ -83,10 +83,10 @@ I also served as a mentor/organization admin in the [Open Source Promotion Plan 
 With passion in Cloud + Infra + AI, I am actively seeking new graduate or entry-level SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model.
 
 🌟 **Key Achievements**
+- Industry Full Stack Development: Developed and deployed end-to-end software solutions across various industries, integrating machine learning models and scalable backend infrastructure.
 - ML Algorithm: Enhanced accuracy of LLMs for diverse industrial ML & Infra tasks at Uber, ByteDance.
 - ML Infrastructure: Engineered AWS-based solutions to host ML models with robust reliability.
-- ML Platform: Built an enterprise-level AI PaaS platform to streamline the model DevOps process at Alibaba.
-- ML Systems: Wrote CUDA shaders to accelerate ML inference and image processing algorithms.
+- ML Platform: Built an enterprise-level AI PaaS platform to streamline the model DevOps process at CreditEase.
 - Published 3 research papers in AI and NLP, cited over 40 times.
 
 💡 **Research Interests**
