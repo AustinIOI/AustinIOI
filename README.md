@@ -100,8 +100,6 @@ More about LLM: I'm passionate about computer systems, programming languages, an
 
  🚀 **Curiosity:** I know nothing about the world and quite stupid(At least know much less than than AI!), but I’m endlessly fascinated by how things work and how they can be better.
  
- 🖥 **Interests:** 
- 
  👾 **Projects:** I’m the creator of the DLUT robotics organization, where I work on eBPF tools and runtimes. I believe that eBPF has the potential to be incredibly powerful, not just on Linux but across all systems. Can we make that a reality? I’m committed to exploring how.
  
  📹 **Video:** I regularly share my thoughts and learnings on my vlogs at ...
