@@ -12,7 +12,6 @@ I'm a developer/explorer/founder/funder who finds joy in building and exploring.
 - **Open to academic collaborations and :) friendship🧑‍🤝‍🧑!**
 - **Or connections!Would be very happy if we could work together on Infrastructure & Cloud Native☁ or Machine Learning🤖!** 
 - **Interested in my projects/experience🧑‍💼? Want to chat about new ideas💡? Need some help🤝? Feel free to connect me🔗!**
-- 
 ---
 
 <div align="center">
