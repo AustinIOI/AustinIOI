@@ -138,7 +138,7 @@ Some of my works and projects:
   <a href="https://www.linkedin.com/in/alstonyu/">LinkedIn</a> • 
   <a href="https://www.producthunt.com/@alston_yu">Product Hunt</a> • 
   <a href="https://www.instagram.com/jayy_yuu/">Instagram</a> • 
-  <a href="https://x.com/StackItUpA">Twitter[X]</a> • 
+  <a href="https://x.com/StackItUpA">X</a> • 
   <a href="https://www.reddit.com/user/Pleasant-AoAo/">Reddit</a> • 
   <a href="https://github.com/AoO-24">Github</a> • 
 </p>
