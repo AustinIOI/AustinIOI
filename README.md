@@ -139,7 +139,7 @@ Some of my works and projects:
   <a href="https://www.instagram.com/jayy_yuu/">Instagram</a> • 
   <a href="https://x.com/StackItUpA">X[Twitter]</a> • 
   <a href="https://www.reddit.com/user/Pleasant-AoAo/">Reddit</a> • 
-  <a href="https://github.com/AoO-24">Github</a> • 
+  <a href="https://github.com/AoO-24">Github</a> 
 </p>
 
 
