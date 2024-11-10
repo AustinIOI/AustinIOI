@@ -140,7 +140,7 @@ Some of my works and projects:
   <a href="https://medium.com/@yunwei356">Medium Blog</a> • 
   <a href="https://www.producthunt.com/@alston_yu">Product Hunt</a> • 
   <a href="https://www.instagram.com/jayy_yuu/">Instagram</a> • 
-  <a href="https://twitter.com/yunwei37">Twitter[X]</a> • 
+  <a href="https://x.com/StackItUpA">Twitter[X]</a> • 
   <a href="https://github.com/AoO-24">Github</a> • 
 </p>
 
