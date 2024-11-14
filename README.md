@@ -22,6 +22,9 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
     <br>
     <br> 
     <div>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    </div>
+    <div>
         <img src="https://skillicons.dev/icons?i=go,py,ts,java" />
     </div>
     <div>
@@ -37,7 +40,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,powershell,linux,gitlab" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+        <img src="https://skillicons.dev/icons?i=windows,apple" />
     </div>
 <div>
     <div>
