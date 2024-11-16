@@ -93,7 +93,7 @@ A singer turning everyday moments into memorable melodies.
   
 🎯 **What I'm Looking For**
 
-With passion in Cloud + Infra + AI, I am actively seeking NG or entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model. 
+With passion in Cloud + Infra + AI, I am actively seeking New Grad or Entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model. 
 
 More about LLM: I'm passionate about computer systems, programming languages, and large language models (LLMs). The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
 
