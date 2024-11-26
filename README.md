@@ -37,7 +37,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=tensorflow" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,,gitlab,jenkins,powershell" />
+        <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,gitlab,jenkins,powershell" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=windows,apple,linux" />
