@@ -25,7 +25,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=py,go,ts,java" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,graphql,kafka,postman" />
+        <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,graphql,kafka,rabbitmq,postman" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
