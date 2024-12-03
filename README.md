@@ -5,7 +5,8 @@
  
 </div>  
    
-<h2 align="center">Hey there, I'm Alston Yu (AoO-IOI/Jin'ao) 👋</h2> 
+<h2 align="center">Hey there, I'm Austin Yu![Uploading image.png…]()
+ (AoO-IOI) 👋</h2> 
   
 I'm a developer/explorer/founder who finds joy in building and exploring. 
 
