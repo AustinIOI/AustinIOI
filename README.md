@@ -1,11 +1,11 @@
   
 <div align= "center"> 
- <!--<a href="https://aoo-24.github.io/portfolio/">Portfolio</a>  · -->  
+ <!--<a href="https://AoO-IOI.github.io/portfolio/">Portfolio</a>  · -->  
  <!-- This is a hidden comment --> 
  
 </div>  
    
-<h2 align="center">Hey there, I'm Alston Yu (AoO-24/Jin'ao) 👋</h2> 
+<h2 align="center">Hey there, I'm Alston Yu (AoO-IOI/Jin'ao) 👋</h2> 
   
 I'm a developer/explorer/founder who finds joy in building and exploring. 
 
@@ -62,7 +62,7 @@ Want to know more about me...?
 
 
 <div align="center">
-<img src="https://github.com/AoO-24/AoO-24/blob/main/doodle.gif" alt="doodle" width="360" height="360">
+<img src="https://github.com/AoO-IOI/AoO-IOI/blob/main/doodle.gif" alt="doodle" width="360" height="360">
 </div>
 
 <p align="center">
@@ -76,7 +76,7 @@ A singer turning everyday moments into memorable melodies.
 </p>
 
 <div align="center">
-  <!-- <a href="https://aoo-24.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">My Portfolio . </a> --!>
+  <!-- <a href="https://AoO-IOI.github.io/portfolio/" style="font-size: 20px; font-weight: bold;">My Portfolio . </a> --!>
 </div>
 <br/>
 
@@ -132,7 +132,7 @@ Some of my works and projects:
     <a href="https://www.instagram.com/jayy_yuu/">
         <img src="https://skillicons.dev/icons?i=twitter" />
     </a>    
-    <a href="https://github.com/AoO-24">
+    <a href="https://github.com/AoO-IOI">
         <img src="https://skillicons.dev/icons?i=github" />
     </a>
 </div>
@@ -144,7 +144,7 @@ Some of my works and projects:
   <a href="https://www.instagram.com/jayy_yuu/">Instagram</a> • 
   <a href="https://x.com/StackItUpA">X[Twitter]</a> • 
   <a href="https://www.reddit.com/user/Pleasant-AoAo/">Reddit</a> • 
-  <a href="https://github.com/AoO-24">Github</a> 
+  <a href="https://github.com/AoO-IOI">Github</a> 
 </p>
 
 
@@ -160,8 +160,8 @@ Some of my works and projects:
 <!--
     You can write as many lines as you want here.
     The browser will not display any of this text.
-<a href="https://github.com/AoO-24">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=AoO-24&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />
+<a href="https://github.com/AoO-IOI">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=AoO-IOI&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />
 </a>
 
 -->
@@ -171,8 +171,8 @@ Some of my works and projects:
 
 <div align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=AoO-24&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoO-24&size_weight=0.5&count_weight=0.5" />]  
+[<img src="https://github-readme-stats.vercel.app/api?username=AoO-IOI&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoO-IOI&size_weight=0.5&count_weight=0.5" />]  
 
 
 </div>
