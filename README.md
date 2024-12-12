@@ -35,7 +35,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb " />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=pytorch, tensorflow" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,ansible,gitlab,powershell,jenkins" />
