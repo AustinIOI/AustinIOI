@@ -32,7 +32,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb " />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=pytorch" />
@@ -81,7 +81,7 @@ A singer turning everyday moments into memorable melodies.
 </div>
 <br/>
 
-👋 Hello! I'm Jinao Yu, currently pursuing my Master of Science degree in Computer Science at **Georgia Institute of Technology**, focusing on Cloud-Native development, DevOps, MLOps and full-stack development. I got my Bachelor of Science degree from Univ of Wisconsin-Madison, and had a chance be selected for a research fellowship program at Columbia University. 
+👋 Hello! I'm Jinao Yu, currently pursuing my Master of Science degree in Computer Science at **Georgia Institute of Technology**, focusing on full-stack development, DevOps, MLOps. I got my Bachelor of Science degree from Univ of Wisconsin-Madison, and had a chance be selected for a research fellowship program at Columbia University. 
 
 🧑🏻‍💼 I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
