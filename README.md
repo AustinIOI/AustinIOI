@@ -81,7 +81,7 @@ A singer turning everyday moments into memorable melodies.
 </div>
 <br/>
 
-👋 Hello! I'm Jinao Yu, currently pursuing my Master of Science degree in Computer Science at **Georgia Institute of Technology**, focusing on full-stack development, DevOps, MLOps. I got my Bachelor of Science degree from Univ of Wisconsin-Madison, and had a chance be selected for a research fellowship program at Columbia University. 
+👋 Hello! I'm Jinao Yu, currently pursuing my Master of Science degree in Computer Science at **Georgia Institute of Technology**, focusing on Full-stack development, DevOps, MLOps. I got my Bachelor of Science degree from Univ of Wisconsin-Madison, and had a chance be selected for a research fellowship program at Columbia University. 
 
 🧑🏻‍💼 I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
@@ -94,7 +94,7 @@ A singer turning everyday moments into memorable melodies.
   
 🎯 **What I'm Looking For**
 
-With passion in Cloud + Infra + AI, I am actively seeking New Grad or Entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model. 
+With passion in Software Dev + AI, I am actively seeking New Grad or Entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model. 
 
 More about LLM: I'm passionate about computer systems, programming languages, and large language models (LLMs). The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
 
