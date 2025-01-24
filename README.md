@@ -87,22 +87,23 @@ A singer turning everyday moments into memorable melodies.
 
 🌟 **Key Achievements**
 - Software Development Industry: Developed end-to-end software solutions and scalable backend infrastructure.
-- ML Algorithm: Enhanced accuracy of LLMs for diverse industrial ML & Infra tasks at Uber, ByteDance.
+- ML Algorithm: Enhanced accuracy of LLMs for diverse industrial ML tasks at Uber, ByteDance.
 - ML Infrastructure: Engineered AWS-based solutions to host ML models with robust reliability.
 - ML Platform: Built an enterprise-level AI PaaS platform to streamline the model DevOps process at CreditEase.
 - Published 3 research papers in AI and NLP, cited over 40 times.
   
 🎯 **What I'm Looking For**
 
-With passion in Software Dev + AI, I am actively seeking New Grad or Entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model. 
+With passion in Software Dev + AI Agent Development, I am actively seeking New Grad or Entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model. 
 
 More about LLM: I'm passionate about computer systems, programming languages, and large language models (LLMs). The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
 
 💡 **Research Interests**
+- Large Language Model 
 - MLOps Ecosystem
 - Distributed System, Microservices
 - Cloud Native, Open Source
-- Large Language Model 
+
   
 
  🚀 **Curiosity:** I know nothing about the world and quite stupid(At least know much less than than AI!), but I’m endlessly fascinated by how things work and how they can be better.
