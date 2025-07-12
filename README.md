@@ -23,13 +23,10 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
     <br>
     <br> 
     <div>
-        <img src="https://skillicons.dev/icons?i=py,cpp,c,java" />
+        <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,idea,spring,cmake" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=ts,react,figma,vercel,graphql,postman" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,supabase,dynamodb,redis,mysql" />
