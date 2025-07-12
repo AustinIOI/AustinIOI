@@ -10,6 +10,10 @@ I'm a developer and systems enthusiast with interests in compilers, machine lear
 - **Enjoy collaborative environments and learning from experienced teams**
 - **Curious about deep learning compilers, distributed training, and scalable backend systems**
 
+- **Open to opportunities in systems programming, ML infrastructure, and compiler-related engineering roles**
+- **Enjoy collaborative environments and learning from experienced teams**
+- **Curious about deep learning compilers, distributed training, and scalable backend systems**
+
 ---
 
 <div align="center">
