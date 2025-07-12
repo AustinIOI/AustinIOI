@@ -94,15 +94,3 @@ A singer turning everyday moments into memorable melodies.
 
 <div align="center">
       =============================== 🌐 Let’s connect and collaborate! 🌐===============================
-
-</h4>
-<br>
-<br>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://www.instagram.com/jayy_yuu/">
-        <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>    
-    <a href="https://github.com/AoO-IOI">
-        <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-</div>
