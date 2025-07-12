@@ -38,7 +38,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=dynamodb,mysql,redis,supabase" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=pytorch" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,bash,powershell" />
@@ -52,7 +52,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         </b>Currently learning:
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=rust,tensorflow,cassandra,deno,cloudflare,bitbucket,redhat,openshift" />
+        <img src="https://skillicons.dev/icons?i=rust,cloudflare,redhat,openshift" />
     </div>
 </div>
 <br>
