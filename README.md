@@ -86,9 +86,7 @@ A singer turning everyday moments into memorable melodies.
 
 🎯 **What I'm Looking For**
 
-With passion in Software Dev + AI Agent Development, I am actively seeking New Grad or Entry-level MLE & SDE & DevOps & Infrastructure as Code & SRE positions. I'm also interested in research collaborations in NLP, MLOps Ecosystem, Microservice, Distributed System, Large Language Model. 
 
-More about LLM: I'm passionate about computer systems, programming languages, and large language models (LLMs). The rise of LLMs is unstoppable. I’m interested in making their inference faster and deployment easier in current operating systems. I’m also exploring how LLMs could change the way we think about operating systems and software.
 
 💡 **Research Interests**
 - Large Language Model 
@@ -96,19 +94,19 @@ More about LLM: I'm passionate about computer systems, programming languages, an
 - Distributed System, Microservices
 - Cloud Native, Open Source
 
+<h3 align="center">💡 Areas of Interest</h3>
+<ul>
+  <li>Compiler Infrastructure: MLIR, LLVM, TVM</li>
+  <li>GPU Programming and Kernel Optimization (CUDA, Triton)</li>
+  <li>Distributed ML Systems and Tooling (FSDP, DDP, NCCL)</li>
+  <li>Systems Programming, HPC, and Infrastructure Tooling</li>
+</ul>
 
 
- 🚀 **Curiosity:** I know nothing about the world and quite stupid(At least know much less than than AI!), but I’m endlessly fascinated by how things work and how they can be better.
+ 🚀 **Curiosity:** I know nothing about the world, but I’m endlessly fascinated by how things work and how they can be better.
 
- 👾 **Projects:** I’m the creator of the DLUT robotics organization, where I work on eBPF tools and runtimes. I believe that eBPF has the potential to be incredibly powerful, not just on Linux but across all systems. Can we make that a reality? I’m committed to exploring how.
 
- 📹 **Video:** I regularly share my thoughts and learnings on my vlogs at ...
-
----
-
-Some of my works and projects:
-
-- Panel Discussion: eBPF: A New Era in Cloud Infrastructure Tools in [OSS summit Europe 24](https://sched.co/1ej2B@sched)
+\
 
 <div align="center">
       =============================== 🌐 Let’s connect and collaborate! 🌐===============================
