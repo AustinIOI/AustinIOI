@@ -29,10 +29,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,idea,spring,cmake" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=fastapi,spring,cmake,graphql,postman" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=js,ts,react,figma,vercel" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,figma,vercel,graphql,postman" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=dynamodb,mysql,redis,supabase" />
