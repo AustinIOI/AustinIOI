@@ -18,7 +18,7 @@ I'm a developer and systems enthusiast with interests in compilers, machine lear
 ---
 
 <div align="center">
-    ================================= 🛠️ My skills 🛠️ =================================
+    ================================= 🛠️ Tool Set 🛠️ =================================
 
  </h4>
     <br>
