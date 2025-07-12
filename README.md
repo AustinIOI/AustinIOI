@@ -26,19 +26,19 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=py,cpp,java,ts" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,graphql,rabbitmq,postman" />
+        <img src="https://skillicons.dev/icons?i=fastapi,spring,cmake,graphql,postman" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+        <img src="https://skillicons.dev/icons?i=dynamodb,mysql,redis,mongodb" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=pytorch" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,ansible,gitlab,powershell,jenkins" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,gitlab,powershell" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=windows,apple,linux" />
