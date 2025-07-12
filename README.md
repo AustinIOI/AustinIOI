@@ -52,7 +52,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         </b>Currently learning:
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=rust,cloudflare,redhat,openshift" />
+        <img src="https://skillicons.dev/icons?i=rust,ocaml,cloudflare" />
     </div>
 </div>
 <br>
