@@ -33,10 +33,7 @@ I'm a developer and systems enthusiast with interests in compilers, machine lear
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,supabase,dynamodb,redis,mysql" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,vim,git" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=windows,apple,linux" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,vim,git,windows,apple,linux" />
     </div>
 <div>
     <div>
