@@ -26,10 +26,10 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=py,cpp,c,java" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=fastapi,spring,cmake,graphql,postman" />
+        <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,idea" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=pycharm,clion,idea,vscode" />
+        <img src="https://skillicons.dev/icons?i=fastapi,spring,cmake,graphql,postman" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=js,ts,react,figma,vercel" />
