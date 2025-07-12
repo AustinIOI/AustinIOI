@@ -29,6 +29,9 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=fastapi,spring,cmake,graphql,postman" />
     </div>
     <div>
+        <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode" />
+    </div>
+    <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
     </div>
     <div>
