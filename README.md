@@ -35,7 +35,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=js,ts,react,figma,vercel" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=dynamodb,mysql,redis,mongodb" />
+        <img src="https://skillicons.dev/icons?i=dynamodb,mysql,redis,supabase" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=pytorch" />
