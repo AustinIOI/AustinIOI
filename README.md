@@ -30,7 +30,7 @@ I'm a developer and systems enthusiast with interests in compilers, machine lear
         <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,idea,cmake" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,supabase,dynamodb,redis,mysql" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,supabase,dynamodb,redis" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,vim,git,windows,apple,linux" />
