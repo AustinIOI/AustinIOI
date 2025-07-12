@@ -23,7 +23,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
     <br>
     <br> 
     <div>
-        <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts" />
+        <img src="https://skillicons.dev/icons?i=py,cpp,c,rust,java,ts" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,idea,spring,cmake" />
@@ -43,7 +43,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         </b>Currently learning:
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=rust,ocaml,cloudflare,azure,unreal,unity" />
+        <img src="https://skillicons.dev/icons?i=ocaml,cloudflare,azure,unreal,unity" />
     </div>
 </div>
 <br>
