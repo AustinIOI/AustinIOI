@@ -32,7 +32,7 @@ I'm a developer/explorer/founder who finds joy in building and exploring.
         <img src="https://skillicons.dev/icons?i=ts,react,figma,vercel,graphql,postman" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=supabase,dynamodb,redis,mysql" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,supabase,dynamodb,redis,mysql" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
