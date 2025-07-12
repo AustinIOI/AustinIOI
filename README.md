@@ -75,7 +75,7 @@ A singer turning everyday moments into memorable melodies.
 
 👨‍🎓 Graduated with an M.S. in Computer Science from **Georgia Tech**, with a focus on system-level design for AI and compiler optimization.
 
-🧑🏻‍💼 I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
+🧑🏻‍💼 I also served as a mentor/organization admin in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
 
 <h3 align="center">💡 Areas of Interest</h3>
