@@ -77,22 +77,6 @@ A singer turning everyday moments into memorable melodies.
 
 🧑🏻‍💼 I also served as a mentor/organization admin in the [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/) in 2023, and in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
-🌟 **Key Achievements**
-- Software Development Industry: Developed end-to-end software solutions and scalable backend infrastructure.
-- ML Algorithm: Enhanced accuracy of LLMs for diverse industrial ML tasks at Uber, ByteDance.
-- ML Infrastructure: Engineered AWS-based solutions to host ML models with robust reliability.
-- ML Platform: Built an enterprise-level AI PaaS platform to streamline the model DevOps process at CreditEase.
-- Published 3 research papers in AI and NLP, cited over 40 times.
-
-🎯 **What I'm Looking For**
-
-
-
-💡 **Research Interests**
-- Large Language Model 
-- MLOps Ecosystem
-- Distributed System, Microservices
-- Cloud Native, Open Source
 
 <h3 align="center">💡 Areas of Interest</h3>
 <ul>
