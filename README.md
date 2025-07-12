@@ -15,11 +15,6 @@ I'm a developer and systems enthusiast with interests in compilers, machine lear
 - **Enjoy collaborative environments and learning from experienced teams**
 - **Curious about deep learning compilers, distributed training, and scalable backend systems**
 
-
-- **Happy to offer consulting services and happy to hear advices👂！**
-- **Open to academic collaborations and :) friendship🧑‍🤝‍🧑!**
-- **Or connections!Would be very happy if we could work together on Machine Learning🤖 or Cloud Native☁&Infrastructure!** 
-- **Interested in my projects/experience🧑‍💼? Want to chat about new ideas💡? Need some help🤝? Feel free to connect me🔗!**
 ---
 
 <div align="center">
