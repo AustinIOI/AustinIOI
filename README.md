@@ -99,12 +99,6 @@ A singer turning everyday moments into memorable melodies.
 <br>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://www.linkedin.com/in/alstonyu/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://www.instagram.com/jayy_yuu/">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
     <a href="https://www.instagram.com/jayy_yuu/">
         <img src="https://skillicons.dev/icons?i=twitter" />
     </a>    
