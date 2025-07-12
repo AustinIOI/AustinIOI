@@ -89,8 +89,5 @@ A singer turning everyday moments into memorable melodies.
 
 🚀 **Curiosity:** I know nothing about the world, but I’m endlessly fascinated by how things work and how they can be better.
 
-
-\
-
 <div align="center">
       =============================== 🌐 Let’s connect and collaborate! 🌐===============================
