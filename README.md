@@ -5,7 +5,7 @@
 </div>  
 
 <h2 align="center">Hey there, I'm Austin Yu!
- (AustinIOI) 👋</h2>   
+ (AustinIn) 👋</h2>   
 
 <p align="center">
 I'm a developer and systems enthusiast with interests in compilers, machine learning infrastructure, and cloud-native tools.
