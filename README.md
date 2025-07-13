@@ -72,6 +72,3 @@ An open-source advocator who daily drives Apple products.<br/>
 👨‍🎓 Graduated with an M.S. in Computer Science from **Georgia Tech**, with a focus on system-level design for AI and compiler optimization.
 
 🧑🏻‍💼 I also served as a mentor/organization admin in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
-
-
-🚀 **Curiosity:** I know nothing about the world, but I’m endlessly fascinated by how things work and how they can be better.
