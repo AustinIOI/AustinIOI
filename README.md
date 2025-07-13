@@ -8,7 +8,7 @@
  (AustinIOI) 👋</h2>   
 
 <p align="center">
-I'm a developer and systems enthusiast with interests in compilers, machine learning infrastructure, and cloud-native tools. Let’s connect and collaborate!
+I'm a developer and systems enthusiast with interests in compilers, machine learning infrastructure, and cloud-native tools.
 </p>
 
 - **Open to opportunities in systems programming, ML infrastructure, and compiler-related engineering roles**
