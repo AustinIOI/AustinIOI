@@ -24,10 +24,7 @@ I'm a developer and systems enthusiast with interests in compilers, machine lear
     <br>
     <br> 
     <div>
-        <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,idea,cmake" />
+        <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts,pycharm,clion,vscode,idea,cmake" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,supabase,dynamodb,redis" />
