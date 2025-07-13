@@ -78,15 +78,6 @@ A singer turning everyday moments into memorable melodies.
 🧑🏻‍💼 I also served as a mentor/organization admin in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) in 2024.
 
 
-<h3 align="center">💡 Areas of Interest</h3>
-<ul>
-  <li>Compiler Infrastructure: MLIR, LLVM, TVM</li>
-  <li>GPU Programming and Kernel Optimization (CUDA, Triton)</li>
-  <li>Distributed ML Systems and Tooling (FSDP, DDP, NCCL)</li>
-  <li>Systems Programming, HPC, and Infrastructure Tooling</li>
-</ul>
-
-
 🚀 **Curiosity:** I know nothing about the world, but I’m endlessly fascinated by how things work and how they can be better.
 
 <div align="center">
